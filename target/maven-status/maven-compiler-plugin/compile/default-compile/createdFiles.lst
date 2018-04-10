@@ -1,0 +1,5 @@
+com\company\servlet\DoLoginServlet.class
+com\company\servlet\LoginServlet.class
+com\company\recaptcha\MyConstants.class
+com\company\recaptcha\VerifyUtils.class
+com\company\servlet\UserInfoServlet.class
